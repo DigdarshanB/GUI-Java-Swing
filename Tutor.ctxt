@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Tutor
+comment0.text=\n\ This\ class\ represents\ Tutor,\ which\ is\ a\ sub-class\ of\ the\ parent-class,\ Teacher.\n\n\ @author\ (Digdarshan\ Bhattarai)\n\ @version\ (1.0)\n
+comment1.params=teacherId\ teacherName\ address\ workingType\ employmentStatus\ workingHours\ salary\ specialization\ academicQualifications\ performanceIndex
+comment1.target=Tutor(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=void\ display()
+comment2.params=teacherId
+comment2.target=Tutor(int)
+comment3.params=
+comment3.target=double\ getSalary()
+comment4.params=
+comment4.target=java.lang.String\ getSpecialization()
+comment5.params=
+comment5.target=java.lang.String\ getAcademicQualifications()
+comment6.params=
+comment6.target=int\ getPerformanceIndex()
+comment7.params=
+comment7.target=boolean\ getIsCertified()
+comment8.params=newSalary\ newPerformanceIndex
+comment8.target=void\ setSalary(double,\ int)
+comment9.params=
+comment9.target=void\ removeTutor()
+numComments=11
